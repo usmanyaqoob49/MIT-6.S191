@@ -1,4 +1,4 @@
-# MIT-6.S191
+# MIT-6.S191 (2024)
 http://introtodeeplearning.com/
 
-(2024)
+
